@@ -2,5 +2,5 @@
 This is my portfolio"# portfolio" 
 
 
-## iskandar ganteng
-my name
+## My Name
+Mohammad Iskandar
